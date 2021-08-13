@@ -1,0 +1,9 @@
+.text{
+   font-size: 24px;
+   line-height: 1.7;
+   font-weight: 400;
+   text-align: left;
+   font-family: inherit;
+   color: darkgreen;
+   padding: 10px 20px;
+}
